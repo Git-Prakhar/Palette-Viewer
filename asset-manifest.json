@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/palette-viewer/static/css/main.3fe541c3.css",
-    "main.js": "/palette-viewer/static/js/main.deb6bef8.js",
-    "static/js/787.1fd949f3.chunk.js": "/palette-viewer/static/js/787.1fd949f3.chunk.js",
-    "index.html": "/palette-viewer/index.html",
-    "main.3fe541c3.css.map": "/palette-viewer/static/css/main.3fe541c3.css.map",
-    "main.deb6bef8.js.map": "/palette-viewer/static/js/main.deb6bef8.js.map",
-    "787.1fd949f3.chunk.js.map": "/palette-viewer/static/js/787.1fd949f3.chunk.js.map"
+    "main.css": "/Palette-Viewer/static/css/main.3fe541c3.css",
+    "main.js": "/Palette-Viewer/static/js/main.bcd8f803.js",
+    "static/js/787.1fd949f3.chunk.js": "/Palette-Viewer/static/js/787.1fd949f3.chunk.js",
+    "index.html": "/Palette-Viewer/index.html",
+    "main.3fe541c3.css.map": "/Palette-Viewer/static/css/main.3fe541c3.css.map",
+    "main.bcd8f803.js.map": "/Palette-Viewer/static/js/main.bcd8f803.js.map",
+    "787.1fd949f3.chunk.js.map": "/Palette-Viewer/static/js/787.1fd949f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3fe541c3.css",
-    "static/js/main.deb6bef8.js"
+    "static/js/main.bcd8f803.js"
   ]
 }
